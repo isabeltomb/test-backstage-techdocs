@@ -1,5 +1,4 @@
 site_name: test-docs
-repo_url: https://github.com/isabeltomb/test-backstage-techdocs
 
 nav:
   - Home: index.md
