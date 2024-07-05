@@ -1,4 +1,5 @@
 site_name: test-docs
+repo_url: https://github.com/isabeltomb/test-backstage-techdocs
 edit_uri: blob/main/docs/
 
 nav:
