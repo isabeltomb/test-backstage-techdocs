@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: isabeltomb/test-backstage-techdocs
     backstage.io/techdocs-ref: dir:.
+    backstage.io/source-location: https://github.com/isabeltomb/test-backstage-techdocs
 spec:
   type: other
   lifecycle: unknown
