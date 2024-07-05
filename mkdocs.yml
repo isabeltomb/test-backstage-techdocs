@@ -1,4 +1,5 @@
 site_name: test-docs
+edit_uri: https://github.com/isabeltomb/test-backstage-techdocs/edit/main/
 
 nav:
   - Home: index.md
